@@ -27,6 +27,8 @@
 # first install gh-pages
 # npm install gh-pages --save-dev
 
+# https://github.com/gitname/react-gh-pages
+
 # 2022/6/6
 npm run build
 

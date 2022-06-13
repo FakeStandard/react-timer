@@ -21,6 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -44,5 +45,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "./"
+  "homepage": "https://FakeStandard.github.io/react-timer"
 }
